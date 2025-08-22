@@ -1,0 +1,106 @@
+greetings:
+Hello! I’m your Smart First-Aid Assistant. You can ask me questions like:
+- What to do if someone is bleeding
+- How to treat burns
+- How to handle fractures
+
+bleeding:
+1. Apply firm pressure with a clean cloth or bandage.
+2. Elevate the wound if possible.
+3. Call emergency services if bleeding does not stop.
+4. Do not remove embedded objects; keep the area clean.
+
+nosebleed:
+1. Sit upright and lean slightly forward.
+2. Pinch the soft part of your nose for 10–15 minutes.
+3. Breathe through your mouth.
+4. Apply a cold compress to the nose or cheeks.
+5. Seek medical attention if bleeding continues.
+
+burn:
+1. Cool the burn with running water for at least 10 minutes.
+2. Cover with a sterile cloth or bandage.
+3. Do not apply ice or butter.
+4. Seek medical help if severe.
+
+choking:
+1. Encourage the person to cough.
+2. Perform back blows and abdominal thrusts if needed.
+3. Call emergency services if obstruction continues.
+
+fainting:
+1. Lay the person flat on their back.
+2. Elevate the legs if possible.
+3. Loosen tight clothing.
+4. Keep the person comfortable and check for breathing.
+5. Seek medical help if unconsciousness lasts more than a minute.
+
+sprain:
+1. Rest the injured limb.
+2. Apply ice for 15–20 minutes every 2–3 hours.
+3. Compress with an elastic bandage.
+4. Elevate the limb above heart level.
+5. Seek medical help if severe pain or swelling occurs.
+
+fracture:
+1. Keep the person still.
+2. Immobilize the injured area using a splint.
+3. Apply ice packs to reduce swelling.
+4. Call emergency services immediately.
+
+heart_attack:
+1. Call emergency services immediately.
+2. Have the person sit down and stay calm.
+3. Loosen tight clothing.
+4. If trained and available, provide CPR if the person becomes unconscious.
+
+stroke:
+1. Call emergency services immediately.
+2. Note the time symptoms began.
+3. Keep the person comfortable and lying down.
+4. Do not give food, drink, or medication unless instructed by professionals.
+
+allergic_reaction:
+1. Call emergency services immediately.
+2. Use an epinephrine auto-injector if available.
+3. Keep the person lying down with legs elevated.
+4. Monitor breathing and be ready to perform CPR if needed.
+
+hypothermia:
+1. Move the person to a warm environment.
+2. Remove wet clothing.
+3. Cover with blankets or warm clothing.
+4. Give warm drinks if conscious.
+5. Seek medical help immediately.
+
+heatstroke:
+1. Move the person to a cool place.
+2. Remove excess clothing.
+3. Cool the body with water, fans, or ice packs.
+4. Give water if conscious.
+5. Call emergency services if severe symptoms.
+
+diabetic_emergency:
+1. If conscious, give sugar or glucose tablets.
+2. Monitor for improvement.
+3. If unconscious, call emergency services immediately.
+4. Do not give food or drink if the person is unconscious.
+
+poisoning:
+1. Call emergency services or Poison Control Center immediately.
+2. Do not induce vomiting unless instructed.
+3. Keep the person calm and comfortable.
+4. Provide information about the substance ingested.
+
+seizure:
+1. Keep the person safe from injury.
+2. Do not hold them down.
+3. Place something soft under their head.
+4. Turn them onto their side if possible.
+5. Call emergency services if seizure lasts more than 5 minutes or if it’s the first seizure.
+
+shock:
+1. Lay the person down and elevate legs if possible.
+2. Keep the person warm and comfortable.
+3. Do not give food or drink.
+4. Call emergency services immediately.

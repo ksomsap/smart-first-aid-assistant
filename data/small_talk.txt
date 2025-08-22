@@ -1,0 +1,3 @@
+hello: Hi there! I’m your Smart First-Aid Assistant. Ask me about bleeding, burns, fractures, and more.
+who are you: I am a Smart First-Aid Assistant. I can help you with emergencies safely.
+how are you: I’m here to help you with first-aid questions. How can I assist?

@@ -1,0 +1,15 @@
+bleeding: bleed, blood, cut, nosebleed, bleeding
+burn: burn, scald, hot, fire, burned
+choking: choke, throat, airway, obstruction, choking
+fainting: faint, unconscious, passed out, dizzy, collapse
+sprain: sprain, twist, ankle, wrist, ligament
+fracture: break, fracture, bone
+heart_attack: heart attack, chest pain, cardiac, myocardial infarction
+stroke: stroke, brain attack, paralysis, weakness on one side
+allergic_reaction: allergy, allergic, reaction, swelling, hives
+hypothermia: hypothermia, cold, freezing, shivering
+heatstroke: heatstroke, overheating, hot, sunstroke
+diabetic_emergency: diabetes, low blood sugar, hyperglycemia, hypoglycemia
+poisoning: poison, toxic, ingested, chemical, overdose
+seizure: seizure, convulsion, fit, epilepsy
+shock: shock, pale, weak, rapid pulse

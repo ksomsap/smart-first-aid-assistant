@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env/
+env/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Mac / Windows
+*.swp
+Thumbs.db
